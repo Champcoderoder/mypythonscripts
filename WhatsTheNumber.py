@@ -47,6 +47,6 @@ while drawnnumber != userselection:
         break
     attempt += 1
 
-print("\t\t\t\t\tGAME OVER")
+print("\n\t\t\t\t\tGAME OVER")
 
 input("\nEnter kończy grę")

@@ -8,7 +8,7 @@ randomtwo = random.randint(1, 45)
 # Check computer numbers
 # print(f"Computer numbers: {randomone}, {randomtwo}")
 
-print("\nTest your luck! Choose to numbers. Maybe you'll be the winner!\n")
+print("\nTest your luck! Choose two numbers. Maybe you'll be the winner!\n")
 numberone = int(input("Your first number: "))
 numbertwo = int(input("Your second number: "))
 
