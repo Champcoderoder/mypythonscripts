@@ -37,6 +37,13 @@ def ifcore(mode):
       scoremode5 = amode5 * prize
       print(f"Do zapłaty: {scoremode5}")
       print()
+    elif mode == 6:
+      print()
+      amode6 = float(input("Średnia ilość uderzeń Twojego serca na minutę: "))
+      age = float(input("Twój wiek: "))
+      scoremode6 = amode6 * 60 * 24 * 365 * age
+      print(f"Do tej pory twoje serce zabiło około: {scoremode6}")
+      print()
     else:
       print("ERROR")
       print("Program napotkał niespodziewany problem")

@@ -6,7 +6,7 @@ print(" --- PRZElicznik --- ")
 print("Więcej niż zwykły licznik")
 print()
 
-mode = int(input("Co chciałbyś przeliczyć?\n\n 1 - Jaki procent liczby stanowi wybrana przez Ciebie liczba \n 2 - Prędkość 1 km znając prędkość w km/h \n 3 - Kilogramy na funty \n 4 - Funty na kilogramy \n 5 - Koszt obiadów w TW w danym miesiącu \n Twój wybór: "))
+mode = int(input("Co chciałbyś przeliczyć?\n\n 1 - Jaki procent liczby stanowi wybrana przez Ciebie liczba \n 2 - Prędkość 1 km znając prędkość w km/h \n 3 - Kilogramy na funty \n 4 - Funty na kilogramy \n 5 - Koszt obiadów w TW w danym miesiącu \n 6 - Ilość uderzeń Twojego serca od narodzin do ostatnich urodzin \n Twój wybór: "))
 
 core1(mode)
 
